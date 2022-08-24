@@ -65,3 +65,13 @@ body {
     left: 0;
     min-height: 300px;
 }
+
+.reserve-form {
+    background-color: white;
+}
+
+#reserve-modal-dialog {
+    background-color: white;
+    padding: 24px;
+    border-radius: 24px;
+}
